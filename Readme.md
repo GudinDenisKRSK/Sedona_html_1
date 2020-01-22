@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Денис Гудин](https://up.htmlacademy.ru/htmlcss/27/user/427255).
-* Наставник: `Неизвестно`.
+* Наставник: [Vladislav Rostov](https://htmlacademy.ru/profile/id425565).
 
 ---
 
